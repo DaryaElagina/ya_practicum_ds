@@ -12,5 +12,6 @@
 | [Прототип модели предсказывающей коэффициент восстановления золота из золотосодержащей руды](9_Preparation_of_a_prototype_model_for_predicting_the_recovery_rate_of_gold_from_gold_ore)| Разработка прототипа модели машинного обучения, способной предсказывать коэффициент восстановления золота из золотосодержащей руды|pandas, sklearn, numpy, matplotlib, plotly|
 | [Защита персональных данных клиентов банка](10_Protection_of_personal_data_of_bank_clients)| Разработка метода шифрования персональных данных с сохранение возможности делать предсказания без потери точности|pandas, sklearn, numpy|
 | [Определение стоимости автомобилей](11_Determining_the_cost_of_cars)| Построение моделей для определения стоимости автомобиля для сервиса продажи машин |pandas, sklearn, numpy, plotly, matplotlib, lightgbm, catboost|
+| [Прогнозирование заказов такси](12_Predicting_taxi_orders)| Обучение модели для предсказания количества заказов такси на следующий час |pandas, numpy, matplotlib, sklearn, statsmodels, CatBoost, LightGBM| 
 | [Разработка инструмента для поиска токсичных комментариев в интернет-магазине](13_Development_of_a_tool_for_finding_toxic_comments_in_online_store)| Обучение модели классифицировать комментарии на позитивные и негативные |pandas, numpy, matplotlib, NLTK, sklearn, lightgbm| 
 
